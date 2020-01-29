@@ -1,0 +1,27 @@
+.cont-espana{
+    position: relative;
+}
+
+.espana{
+    width: 450px;
+    height: 300px;
+    background-color: red;
+    position: absolute;
+}
+.espana-amarillo{
+    background-color: yellow;
+    width: 450px;
+    height: 100px;
+    position: absolute;
+    margin-top: 92px;
+}
+.dinamarca{
+    width: 450px;
+    height: 300px;
+    background-color: red;
+}
+.emiratos{
+    width: 450px;
+    height: 300px;
+    background-color: black;
+}
